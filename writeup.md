@@ -2,6 +2,7 @@
 
 ## Model Architecture 
 My model has 5 convolution layers and 4 fully connectd layers. Before the first convolution layer, the image was cropped 60 pixels from the top and 20 pixels from the bottom. The model architecture was shown below:
+
 |               | Layer     |
 |---            |---        |
 |               |Input       | 
@@ -25,6 +26,7 @@ My model has 5 convolution layers and 4 fully connectd layers. Before the first 
 |   Layer 8    | Fully connected, output 10 nodes |
 |               |Relu    |  
 |   Layer 9    | Fully connected, output 1 node |
+
 
 I didn't use a dropout layer in the model. Instead, to prevent overfitting, I only trained the model for 3 epochs. The model used an adam optimizer, so the learning rate was not tuned manually
 
