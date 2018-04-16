@@ -35,5 +35,12 @@ I used the dataset provided by Udacity. Dataset was splitted into 80% training s
 
 
 ## Model testing
-I used the simulator to test the model and the result was very good. The car was always in the center of the lane.
-           
+I used the simulator to test the model and the result was very good. The car was always in the center of the lane. Some images are shown below:
+
+![image1](https://raw.githubusercontent.com/junfeizhu/CarND-Behavioral-Cloning-P3/master/example_images/2018_04_08_14_28_37_543.jpg)
+
+![image2](https://raw.githubusercontent.com/junfeizhu/CarND-Behavioral-Cloning-P3/master/example_images/2018_04_08_14_29_40_713.jpg)
+
+![image3](https://raw.githubusercontent.com/junfeizhu/CarND-Behavioral-Cloning-P3/master/example_images/2018_04_08_14_30_40_680.jpg)
+
+![image4](https://raw.githubusercontent.com/junfeizhu/CarND-Behavioral-Cloning-P3/master/example_images/2018_04_08_14_31_05_150.jpg)
